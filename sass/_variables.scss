@@ -1,0 +1,21 @@
+// Font Family
+$Font-style: 'Barlow Semi Condensed', sans-serif;
+
+// Primary corol
+$Moderate-violet: hsl(263, 55%, 52%);
+$Moderate-violet-lite: hsl(264, 82%, 70%);
+$Very-dark-grayish-blue: hsl(217, 19%, 35%);
+$Very-dark-blackish-blue: hsl(219, 29%, 14%);
+$White: hsl(0, 0%, 100%);
+$Black: hsl(0, 100%, 0%);
+
+// Neutral corol
+$Light-gray: hsl(0, 0%, 81%);
+$Light-grayish-blue: hsl(210, 46%, 95%);
+
+// Breakpoints
+$screen-sm: 576px;      // Large smartphones
+$screen-md: 768px;      // Small tablets
+$screen-lg: 992px;      // Tablets
+$screen-xl: 1200px;     // Desktops
+$screen-xxl: 1440px;    // Large desktops
